@@ -1,0 +1,22 @@
+﻿CommandService/bin
+CommandService/obj
+PlatformService/bin
+PlatformService/obj
+CommandService/appsettings.Development.json
+CommandService/appsettings.Production.json
+PlatformService/appsettings.Development.json
+PlatformService/appsettings.Production.json
+PlatformService/Properties
+CommandService/Properties
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+CommandService/.vscode
+PlatformService/.vscode
+.vscode
